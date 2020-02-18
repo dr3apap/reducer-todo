@@ -1,0 +1,32 @@
+.formParent{
+margin-left: 0;
+margin-right:0;
+margin:auto;
+width:400px;
+background:rgb(89, 128, 87);
+
+}
+
+.input{
+border-bottom: 8px solid peru;
+padding:5px;
+width:10rem;
+background: #f1f1f1;
+margin-left: 2rem;
+height:30px;
+}
+
+.title{
+color:#444;
+font-size: 2rem;
+background: linear-gradient(to left, rgb(65, 126, 178 ), rgb(180, 122, 175));
+padding:10px 0;
+text-align:center;
+height: inherit;
+-webkit-background-clip: text;
+-webkit-text-fill-color:transparent;
+}
+.completed{
+  color:Peru;
+  text-decoration: line-through;
+}
